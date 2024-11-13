@@ -9,4 +9,4 @@ entrate nel server discord per ricevere piu aggiornamenti possibili sul progetto
 
 UN GRANDE RINGRAZIAMENTO A TUTTI QUELLI CHE CONTRIBUISCONO O CONTRIBUIRANNO ALLA TRADUZIONE 
 
-attualmente completata al 18%
+attualmente completata al 39%
