@@ -7,6 +7,15 @@ entrate nel server discord per ricevere piu aggiornamenti possibili sul progetto
 
 ![Senza_titolo-2_page-0001-removebg-preview (1)](https://github.com/user-attachments/assets/33f72235-d06c-4904-a493-d8af8a102e98)
 
-UN GRANDE RINGRAZIAMENTO A TUTTI QUELLI CHE CONTRIBUISCONO O CONTRIBUIRANNO ALLA TRADUZIONE 
+Attualmente NON Funziona Su Twilight Menu++ e Necessaria Una Qualsiasi Flashcard
+
+Gli Elementi Tradotti Non Sono Tantissimi Se Volete Contribuire Anche Voi Al Progetto Entrate Nel Server Discord
+
+RINGRAZIAMENTI
+
+Sasso.Figo (Contributor)
+LeoChrome (Contributor)
+Ricky (Contributor)
+Pako (Beta Tester) 
 
 attualmente completata al 39%
