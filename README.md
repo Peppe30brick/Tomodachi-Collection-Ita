@@ -14,8 +14,11 @@ Gli Elementi Tradotti Non Sono Tantissimi Se Volete Contribuire Anche Voi Al Pro
 RINGRAZIAMENTI
 
 Sasso.Figo (Contributor)
+
 LeoChrome (Contributor)
+
 Ricky (Contributor)
+
 Pako (Beta Tester) 
 
 attualmente completata al 39%
