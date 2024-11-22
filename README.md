@@ -17,8 +17,6 @@ Sasso.Figo (Contributor)
 
 LeoChrome (Contributor)
 
-Ricky (Contributor)
-
 Pako (Beta Tester) 
 
 attualmente completata al 39%
