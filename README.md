@@ -1,22 +1,54 @@
-# Tomodachi-Collection-Ita
-Traduzione Italiana di tomodachi collection
-Questa e una traduzione basata sul leggendario gioco tomodachi collection del Nintendo Ds uscito solo in giappone
-siamo partiti dalla patch inglese del grande jjjewel https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/
-La traduzione ora e in fase embrionale ma noi del Peppe30 Studios stiamo completando piano piano il lavoro
-entrate nel server discord per ricevere piu aggiornamenti possibili sul progetto https://discord.gg/p59ABtKseu
+<h1 align="center"> Tomodachi Collection - Ita </h1>
+
+<h3 align="center">Traduzione italiana di Tomodachi Collection</h3>
+<p align="center"> Questa è una traduzione basata sul leggendario Tomodachi Collection per Nintendo DS, titolo uscito esclusivamente in Giappone </p>
+
+<br>
+<br>
+
+<p> Siamo partiti dalla versione di <a href="https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/">jjjewel</a>, autore della patch inglese del gioco. </p>
+<p> La traduzione ora è in fase embrionale, noi del Peppe30 Studios stiamo completando piano piano il lavoro. </p>
+<p> Se siete interessati a collaborare e rimanere aggiornati sul progetto entrate nel <a href="https://discord.gg/p59ABtKseu">Server Discord</a>. </p>
 
 ![Senza_titolo-2_page-0001-removebg-preview (1)](https://github.com/user-attachments/assets/33f72235-d06c-4904-a493-d8af8a102e98)
 
-Attualmente NON Funziona Su Twilight Menu++ e Necessaria Una Qualsiasi Flashcard
+<h4> ⚠️ Attualmente NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </h4>
 
-Gli Elementi Tradotti Non Sono Tantissimi Se Volete Contribuire Anche Voi Al Progetto Entrate Nel Server Discord
+<br>
 
-RINGRAZIAMENTI
+<h2 align="center"> COME BUILDARE </h2>
 
-Sasso.Figo (Contributor)
+<h4 align="center"> Requisiti: </h4>
 
-LeoChrome (Contributor)
+- Rom .nds di Tomodachi Collection 1.1 (NON OFFRIREMO ALCUN AIUTO SU COME TROVARE ONLINE IL GIOCO, DEVI POSSEDERE LA TUA COPIA)
 
-Pako (Beta Tester) 
+- La patch italiana del gioco, la potete trovare nelle [releases](https://github.com/Peppe30brick/Tomodachi-Collection-Ita/releases/tag/Latest)
 
-attualmente completata al 39%
+- Un patcher Xdelta, ne esistono di numerosi, consigliamo [xdelta-wasm](https://kotcrab.github.io/xdelta-wasm/)
+
+<br>
+
+<h4 align="center"> Procedimento: </h4>
+
+1. Una volta ottenuto tutto il necessario bisognerà accedere al sito linkato sopra
+2. Nella voce "Source File" inserire la rom .nds di Tomodachi Collection 1.1
+3. Nella voce "Patch file" inserire il file .xdelta scaricato nella pagina delle releases
+4. Premere "Apply Patch", il download del gioco dovrebbe iniziare e sarete pronti per giocare
+
+<br>
+
+<h2 align="center"> CREDITI </h2>
+
+- [Peppe30_BRICK](https://github.com/Peppe30brick) (Lead Developer)
+
+- Sasso.Figo (Contributor)
+
+- LeoChrome (Contributor)
+
+- [Pako](https://github.com/PakoJSTL) (Beta Tester)
+
+- [DefeatOf13](https://github.com/DefeatOf13) (Contributor)+
+
+<br>
+
+<h4> Traduzione attualmente completata al 39% </h4>
