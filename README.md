@@ -47,7 +47,7 @@
 
 - [Pako](https://github.com/PakoJSTL) (Beta Tester)
 
-- [DefeatOf13](https://github.com/DefeatOf13) (Contributor)+
+- [DefeatOf13](https://github.com/DefeatOf13) (Contributor)
 
 <br>
 
