@@ -51,4 +51,4 @@
 
 <br>
 
-<h4> Traduzione attualmente completata al 39% </h4>
+<h4> Traduzione attualmente completata al 41% </h4>
