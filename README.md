@@ -49,6 +49,8 @@
 
 - [DefeatOf13](https://github.com/DefeatOf13) (Contributor)
 
+- [Simo3ds](https://github.com/Simo3ds) (Contributor)
+
 <br>
 
 <h4> Traduzione attualmente completata al 41% </h4>
