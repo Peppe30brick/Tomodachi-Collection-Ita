@@ -43,7 +43,7 @@
 
 - Sasso.Figo (Contributor)
 
-- LeoChrome (Contributor)
+- [LeoChrom](https://github.com/LeoChrom) (Contributor)
 
 - [Pako](https://github.com/PakoJSTL) (Beta Tester)
 
