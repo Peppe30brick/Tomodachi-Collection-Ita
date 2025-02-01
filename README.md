@@ -43,7 +43,7 @@
 
 - [Peppe30_BRICK](https://github.com/Peppe30brick) (Lead Developer)
 
-- Sasso.Figo (Contributor)
+- [Sasso.Figo](https://github.com/SassoFigo) (Contributor)
 
 - [LeoChrom](https://github.com/LeoChrom) (Contributor)
 
