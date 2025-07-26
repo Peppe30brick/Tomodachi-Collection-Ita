@@ -53,7 +53,7 @@
 
 - [Simo3ds](https://github.com/Simo3ds) (Contributor)
 
-- - [Pako](https://github.com/PakoJSTL) (Beta Tester)
+- [Pako](https://github.com/PakoJSTL) (Beta Tester)
 
 <br>
 
