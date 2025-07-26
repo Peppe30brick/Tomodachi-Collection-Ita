@@ -49,12 +49,14 @@
 
 - [Ricky676k](https://github.com/ricky676k) (Contributor)
 
+- [CertifiedRhm](https://github.com/CertifiedRhm) (Contributor)
+
 - [DefeatOf13](https://github.com/DefeatOf13) (Contributor)
 
 - [Simo3ds](https://github.com/Simo3ds) (Contributor)
 
-- [Pako](https://github.com/PakoJSTL) (Beta Tester)
+- [Pako](https://github.com/PakoJSTL) (Contributor)
 
 <br>
 
-<h4> Traduzione attualmente completata al 41% </h4>
+<h4> Traduzione attualmente completata al 43% </h4>
