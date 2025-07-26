@@ -47,11 +47,13 @@
 
 - [LeoChrom](https://github.com/LeoChrom) (Contributor)
 
-- [Pako](https://github.com/PakoJSTL) (Beta Tester)
+- [Ricky676k](https://github.com/ricky676k) (Contributor)
 
 - [DefeatOf13](https://github.com/DefeatOf13) (Contributor)
 
 - [Simo3ds](https://github.com/Simo3ds) (Contributor)
+
+- - [Pako](https://github.com/PakoJSTL) (Beta Tester)
 
 <br>
 
