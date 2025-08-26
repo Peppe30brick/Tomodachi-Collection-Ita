@@ -12,9 +12,9 @@
 
 ![Senza_titolo-2_page-0001-removebg-preview (1)](https://github.com/user-attachments/assets/33f72235-d06c-4904-a493-d8af8a102e98)
 
-<s> ⚠️ Attualmente NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> </s>
+ ⚠️ Attualmente la Beta 2 NON funziona su TWiLight Menu++, sono necessari una qualsiasi Flashcard o emulatore come <a href="http://desmume.org/">DeSmuMe</a> o <a href="https://melonds.kuribo64.net/">MelonDS</a> 
 
-<h4> Dalla versione v27.12.4 di TWiLight Menu++, Tomodachi Collection - Ita è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4>
+<h4> Dalla versione v27.12.4 di TWiLight Menu++, Tomodachi Collection - Ita (beta 1) è completamente supportato e non richiede più l'ausilio di flashcarts o emulatori </h4>
 
 <br>
 
