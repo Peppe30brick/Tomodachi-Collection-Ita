@@ -24,7 +24,7 @@
 
 - Rom .nds di Tomodachi Collection 1.1 (NON OFFRIREMO ALCUN AIUTO SU COME TROVARE ONLINE IL GIOCO, DEVI POSSEDERE LA TUA COPIA)
 
-- La patch italiana del gioco, la potete trovare nelle [releases](https://github.com/Peppe30brick/Tomodachi-Collection-Ita/releases/tag/Latest)
+- La patch italiana del gioco, la potete trovare nelle [releases](https://github.com/Peppe30brick/Tomodachi-Collection-Ita/releases)
 
 - Un patcher Xdelta, ne esistono di numerosi, consigliamo [xdelta-wasm](https://kotcrab.github.io/xdelta-wasm/)
 
